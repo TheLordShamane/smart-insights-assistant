@@ -7,3 +7,13 @@ pydantic
 python-dotenv
 faker
 pandas
+
+# RAG dependencies
+langchain
+langchain-community
+openai                  # or anthropic
+tiktoken                # token counting
+chromadb                # vector store (local, easy to start)
+sentence-transformers   # local embeddings (optional)
+pypdf                   # if using PDFs
+unstructured            # document parsing

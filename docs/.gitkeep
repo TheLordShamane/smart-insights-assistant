@@ -1,0 +1,16 @@
+# This directory contains unstructured documents for the RAG knowledge base.
+# Add your .md, .txt, or .html files here.
+#
+# Suggested structure:
+#   docs/
+#   ├── policies/
+#   │   ├── return_policy.md
+#   │   ├── shipping_info.md
+#   │   └── privacy_policy.md
+#   ├── product_guides/
+#   │   ├── electronics_guide.md
+#   │   └── clothing_care.md
+#   ├── support_articles/
+#   │   └── common_issues.md
+#   └── reports/
+#       └── monthly_insights.md
