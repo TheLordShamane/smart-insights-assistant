@@ -2,7 +2,9 @@
 .venv/
 venv/
 .env/
-
+.env
+.env.local
+*.key
 # Python cache
 __pycache__/
 *.pyc
